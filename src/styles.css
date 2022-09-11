@@ -1,0 +1,77 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.footer {
+  background-color: black;
+
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  text-align: "center";
+}
+.header {
+  background-color: black;
+
+  position: absolute;
+  width: 100%;
+  color: #f4c21c;
+  text-align: "center";
+  padding-right: 70px;
+}
+/* .h6 {
+  
+} */
+.box {
+  background-color: lightgrey;
+  width: 250px;
+  border: 15px solid green;
+  padding: 50px;
+  position: absolute;
+  margin-top: 80px;
+  background-color: gray;
+  border-radius: 1px;
+  border-color: green;
+  /* margin: auto; */
+}
+
+.boxCenter {
+  background-color: lightgrey;
+  width: 100px;
+  height: 100px;
+  border: 15px solid green;
+  padding: 50px;
+  background-color: gray;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.boxRightBottom {
+  background-color: lightgrey;
+  width: 100px;
+  height: 100px;
+  border: 15px solid green;
+  padding: 50px;
+  background-color: gray;
+  /* margin-bottom: 100px; */
+  position: absolute;
+  top: 1;
+  bottom: 0;
+  left: 1;
+  right: 0;
+
+  margin: auto;
+}
+.page2 {
+  background-color: aqua;
+}
+.page1 {
+  background-color: skyblue;
+}
